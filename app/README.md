@@ -78,13 +78,13 @@ docker-compose up --build -d
 ```bash
 docker ps
 ```
-![Levantamiento de containers](./images/AWSContainer-docSwagger.PNG)
+![Levantamiento de containers](../images/AWSContainer-docSwagger.PNG)
 ### 6. Probar localmente desde la EC2
 
 ```bash
 curl http://localhost:5004/docs
 ```
-![Server en ejecucion](./images/AWSdeploy.PNG)
+![Server en ejecucion](../images/AWSdeploy.PNG)
 ### 7. Probar desde navegador/Postman
 
 ```
@@ -96,7 +96,7 @@ http://3.129.194.31:5004/predict
 ```
 para prod
 
-![Prueba de modelo en producción](./images/PostmanModelProd.PNG)
+![Prueba de modelo en producción](../images/PostmanModelProd.PNG)
 
 ## JSON de prueba
 ```
