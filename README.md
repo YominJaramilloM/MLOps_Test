@@ -44,7 +44,7 @@ El seguimiento y versionado de experimentos se realiza mediante MLflow. Puedes l
 mlflow ui
 O si estás utilizando una base de datos SQLite como backend:
 mlflow ui --backend-store-uri sqlite:///backend.db
-![MLflow UI](images/mlFlowUI.png)
+![MLflow UI](images/mlFlowUI.PNG)
 
 La carpeta mlruns/ almacena los experimentos realizados.
 
