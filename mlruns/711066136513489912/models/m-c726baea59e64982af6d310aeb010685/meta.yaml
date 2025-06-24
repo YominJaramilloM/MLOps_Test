@@ -1,0 +1,10 @@
+artifact_location: file:///home/yominjaramillom/SalvaHealth/mlruns/711066136513489912/models/m-c726baea59e64982af6d310aeb010685/artifacts
+creation_timestamp: 1750666622265
+experiment_id: '711066136513489912'
+last_updated_timestamp: 1750666625026
+model_id: m-c726baea59e64982af6d310aeb010685
+model_type: null
+name: model_RandomForestRegressor
+source_run_id: b0b760e275f14884b810a500a2a0d9d3
+status: 2
+status_message: null

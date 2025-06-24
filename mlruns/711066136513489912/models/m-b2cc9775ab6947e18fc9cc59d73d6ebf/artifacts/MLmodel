@@ -1,0 +1,22 @@
+artifact_path: file:///home/yominjaramillom/SalvaHealth/mlruns/711066136513489912/models/m-b2cc9775ab6947e18fc9cc59d73d6ebf/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.18
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.0
+model_id: m-b2cc9775ab6947e18fc9cc59d73d6ebf
+model_size_bytes: 2288257
+model_uuid: m-b2cc9775ab6947e18fc9cc59d73d6ebf
+prompts: null
+run_id: 473dc845f49244fe8557c109d981fc85
+utc_time_created: '2025-06-23 08:35:14.479942'

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/yominjaramillom/SalvaHealth/tracking/mlruns/258729245422382505/ca190df2e1d444a1832003f56aaeb151/artifacts
+end_time: 1750704428386
+entry_point_name: ''
+experiment_id: '258729245422382505'
+lifecycle_stage: active
+run_id: ca190df2e1d444a1832003f56aaeb151
+run_name: RandomForestRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750704425518
+status: 3
+tags: []
+user_id: yominjaramillom
