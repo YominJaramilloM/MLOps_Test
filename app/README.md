@@ -50,7 +50,7 @@ MLOps_Test/
 - Tipo: Amazon Linux o Ubuntu
 - Habilitar puertos 22 (SSH), 5004 (API), 5433 (Postgres), 8080 (Adminer), 3000 (Grafana)
 - Esto debe ser realizado en el GroupSecurity de la instancia EC2
-  ![Configuracion de puertos en AWS Security Group](./images/SettingSecurityGroupAWS.PNG)
+  ![Configuracion de puertos en AWS Security Group](../images/SettingSecurityGroupAWS.PNG)
 
 ### 2. Instalar Docker y Docker Compose
 
