@@ -53,7 +53,7 @@ El archivo tracking/main.py orquesta todo el flujo de trabajo automáticamente c
 Despues de correr el flujo puede revisar el proceso de ejecucion con los log setiados en la UI de prefect mediante:
 
 prefect server start
-
+![Ejecución de Prefect](images/PrefectFlow.PNG)
 Preprocesa los datos.
 
 Entrena varios modelos.
@@ -78,7 +78,8 @@ La conexión a la base de datos.
 La exposición de la API para pruebas con Postman.
 ![Prueba local con Postman](images/PostmanModelTestLocal.PNG)
 📍 Despliegue en AWS
-Este proyecto fue desplegado en una instancia EC2 de  AWS  con IP publica: .
+Este proyecto fue desplegado en una instancia EC2 de  AWS  con IP publica: http://3.129.194.31:5004/predict
+Para mayor detalle del setting de la instancia de EC2 revise el ![Readme de despliegue en prod](app/README.md)
 
 📬 Contacto
 Desarrollado por Yomin Jaramillo M
