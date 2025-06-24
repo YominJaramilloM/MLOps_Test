@@ -29,7 +29,8 @@ SALVAHEALTH/
 ├── docker-compose.yml          # Orquestación de servicios Docker
 ├── requirements.txt            # Dependencias del proyecto
 └── README.md                   # Este archivo
-```bash
+```
+
 📦 Entrenamiento del Modelo
 Los archivos principales para el entrenamiento del modelo son:
 
